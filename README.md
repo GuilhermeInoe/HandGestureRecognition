@@ -40,9 +40,8 @@ Você precisará de Python 3.x e das seguintes bibliotecas:
 
 1.  Execute o script Python:
     ```bash
-    python seu_script.py
+    python hand_detect.py
     ```
-    *(Substitua `seu_script.py` pelo nome real do seu arquivo)*
 
 2.  Uma janela da sua webcam será aberta.
 
